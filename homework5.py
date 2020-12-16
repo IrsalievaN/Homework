@@ -12,8 +12,7 @@ class Round(Figure):
 
 
 	def __square(a):
-		S = a ^ 2 * pi
-		return S
+		return S = a ** 2 * pi
 
 class Square(Figure):
 	def draw(self):
@@ -21,8 +20,7 @@ class Square(Figure):
 
 	@staticmethod
 	def square(a):
-		S = a ^ 2
-		return S
+		return S = a ** 2
 
 a = int(input("Введите а:\n"))
 
@@ -35,4 +33,4 @@ s.draw()
 print()
 print(s.square(a))
 
-print(r.__square())
+print(r._Round__square())
