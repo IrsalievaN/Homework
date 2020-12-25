@@ -1,0 +1,1 @@
+[{"id": "1", "username": "admin", "email": "admin@example.com", "registered_at": "2020-12-25 10:17:45.129480"}, {"id": "2", "username": "first_user", "email": "first_user@example.com", "registered_at": "2020-12-25 10:17:45.129480"}, {"id": "3", "username": "second_user", "email": "second_user@example.com", "registered_at": "2020-12-25 10:17:45.129480"}]
